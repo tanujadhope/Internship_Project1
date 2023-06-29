@@ -1,3 +1,0 @@
-[ 2023-06-28 22:10:42,166 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
-[ 2023-06-28 22:10:43,045 ] 225 werkzeug - INFO -  * Restarting with watchdog (windowsapi)
-[ 2023-06-28 23:00:06,737 ] 225 werkzeug - INFO -  * Restarting with watchdog (windowsapi)

@@ -1,3 +1,0 @@
-[ 2023-06-25 23:39:46,373 ] 224 werkzeug - WARNING -  * Debugger is active!
-[ 2023-06-25 23:39:46,373 ] 224 werkzeug - INFO -  * Debugger PIN: 105-380-132
-[ 2023-06-25 23:39:51,516 ] 224 werkzeug - INFO -  * Detected change in 'E:\\VScode\\Credit_Card_Defaulter_Predict_TSD\\app.py', reloading
