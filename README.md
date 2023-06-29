@@ -1,4 +1,4 @@
-### Credit-Card-Default-Prediction
+## Credit-Card-Default-Prediction
 ## This is an End to End Machine Learning  project, used to predict credit card defaulter.
 
 ## Overview
@@ -45,23 +45,19 @@ PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar) 
 default.payment.next.month: Default payment (1=yes, 0=no)
 
+## How to run this app
 
-```
 
-### created a environment
-## conda create -n credit_card_defaulter python==3.7
-```
-conda activate credit_card_defaulter
-
-```
-###Install all necessary libraries in requirements.txt using
-pip install -r requirements.txt
-```
-Run app.py
-
-```
+### create  a  virtual environment :conda create -n credit_card_defaulter python==3.7                                            
+### activate the virtual environment :conda activate credit_card_defaulter
+### Install all necessary libraries in requirements.txt:pip install -r requirements.txt
+### Run app.py 
 ### Enter the value as per HTML form 
 ### click on Predict
 ### Result will be either 'Defaulter' or 'Not DEfaulter'
 
-```
+## Project Documents:
+### Project DPR:[https://github.com/tanujadhope/Internship_Project1/blob/main/Documentations/Credit_Card_Default.mp4]
+### Project code demo:https://github.com/tanujadhope/Internship_Project1/blob/main/Documentations/Code%20demo.mp4
+# Author
+https://www.linkedin.com/in/tanujadhope/
