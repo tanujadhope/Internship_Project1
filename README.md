@@ -56,12 +56,6 @@ default.payment.next.month: Default payment (1=yes, 0=no)
 ### click on Predict
 ### Result will be either 'Defaulter' or 'Not DEfaulter'
 
-## Project Documents:
-### Project DPR:[https://github.com/tanujadhope/Internship_Project1/blob/main/Documentations/Credit_Card_Default.mp4]
-### Project code demo:https://github.com/tanujadhope/Internship_Project1/blob/main/Documentations/Code%20demo.mp4
-# Author
-https://www.linkedin.com/in/tanujadhope/
-
 
 
 
@@ -173,5 +167,14 @@ https://www.linkedin.com/in/tanujadhope/
 
 	
 ### follow these all steps
+
+
+
+## Project Documents:
+### Project DPR:[https://github.com/tanujadhope/Internship_Project1/blob/main/Documentations/Credit_Card_Default.mp4]
+### Project code demo:https://github.com/tanujadhope/Internship_Project1/blob/main/Documentations/Code%20demo.mp4
+# Author
+https://www.linkedin.com/in/tanujadhope/
+
 
 
