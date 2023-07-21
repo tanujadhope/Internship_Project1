@@ -132,8 +132,7 @@ https://www.linkedin.com/in/tanujadhope/
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 439464495952.dkr.ecr.us-east-1.amazonaws.com/credit_card_defaulter1
-
+    - Save the URI: 
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
@@ -166,11 +165,11 @@ https://www.linkedin.com/in/tanujadhope/
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = 
 
-    AWS_ECR_LOGIN_URI = demo>>  
-439464495952.dkr.ecr.us-east-1.amazonaws.com
-    ECR_REPOSITORY_NAME = credit_card_defaulter1
+    AWS_ECR_LOGIN_URI = 
+
+    ECR_REPOSITORY_NAME = 
 
 	
 
