@@ -48,7 +48,7 @@ default.payment.next.month: Default payment (1=yes, 0=no)
 ## How to run this app
 
 
-### create  a  virtual environment :conda create -n credit_card_defaulter python==3.7                                            
+### create a virtual environment :conda create -n credit_card_defaulter python==3.7                                           
 ### activate the virtual environment :conda activate credit_card_defaulter
 ### Install all necessary libraries in requirements.txt:pip install -r requirements.txt
 ### Run app.py 
