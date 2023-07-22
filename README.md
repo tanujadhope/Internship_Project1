@@ -1,5 +1,5 @@
 ## Credit-Card-Default-Prediction
-## This is an End to End Machine Learning  project, used to predict credit card defaulter.
+## This is an End to End Machine Learning  project, used to predict credit card defaulter.The project is deployed on AWS 
 
 ## Overview
 ```
