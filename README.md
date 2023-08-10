@@ -115,7 +115,7 @@ default.payment.next.month: Default payment (1=yes, 0=no)
 	newgrp docker
 	
 # 6. Configure EC2 as self-hosted runner:
-    setting>actions>runner>new self hosted runner> choose os> then run command one by one
+    in your GITHUB , setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
 # 7. Setup github secrets:

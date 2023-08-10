@@ -1,0 +1,7 @@
+[ 2023-08-10 12:18:49,384 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-08-10 12:19:20,045 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-10 12:19:20,071 ] 225 werkzeug - INFO -  * Debugger PIN: 166-685-082
+[ 2023-08-10 12:19:20,538 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-08-10 12:19:20,546 ] 225 werkzeug - INFO -  * Running on http://192.168.153.135:8080/ (Press CTRL+C to quit)
+[ 2023-08-10 14:11:51,740 ] 225 werkzeug - INFO -  * Detected change in 'E:\\VScode\\Credit_Card_Defaulter_Predict_TSD\\app.py', reloading
