@@ -1,0 +1,7 @@
+[ 2023-08-08 15:48:16,663 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-08-08 15:49:06,373 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-08 15:49:06,373 ] 225 werkzeug - INFO -  * Debugger PIN: 166-685-082
+[ 2023-08-08 15:49:06,817 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-08-08 15:49:06,819 ] 225 werkzeug - INFO -  * Running on http://192.168.66.135:8080/ (Press CTRL+C to quit)
+[ 2023-08-08 15:50:54,779 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\pyparsing.py', reloading

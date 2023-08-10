@@ -1,0 +1,6 @@
+[ 2023-08-08 22:51:21,961 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-08 22:51:22,056 ] 224 werkzeug - INFO -  * Debugger PIN: 105-380-132
+[ 2023-08-08 22:56:45,918 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2023 22:56:45] "GET / HTTP/1.1" 200 -
+[ 2023-08-08 22:56:46,652 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2023 22:56:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-08 22:59:01,905 ] 80 root - INFO - Dataframe Gathered
+[ 2023-08-08 22:59:06,220 ] 224 werkzeug - INFO - 127.0.0.1 - - [08/Aug/2023 22:59:06] "POST /predict HTTP/1.1" 200 -

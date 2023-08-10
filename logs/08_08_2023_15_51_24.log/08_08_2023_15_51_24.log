@@ -1,0 +1,10 @@
+[ 2023-08-08 15:51:24,364 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2023-08-08 15:51:25,281 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-08 15:51:25,284 ] 225 werkzeug - INFO -  * Debugger PIN: 166-685-082
+[ 2023-08-08 15:51:25,365 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-08-08 15:51:25,366 ] 225 werkzeug - INFO -  * Running on http://192.168.66.135:8080/ (Press CTRL+C to quit)
+[ 2023-08-08 16:05:40,778 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+[ 2023-08-08 16:05:40,997 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\pandas\\util\\_decorators.py', reloading
+[ 2023-08-08 16:05:41,013 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py', reloading
+[ 2023-08-08 16:05:41,215 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\pc\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\pandas\\io\\common.py', reloading
